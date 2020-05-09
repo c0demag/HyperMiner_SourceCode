@@ -7,8 +7,12 @@ The description of the folders is as follows:
   3. Results - Contains the results of the various experiments conducted.
 
 As some initial steps, run the script setup.sh as follows: 
+  ```bash
   sudo ./script.sh
+  ```
 If the command gives error, run the following, and then the above command:
-  chmod +x script.sh
+```bash
+chmod +x script.sh
+  ```
   
 Note: script not added yet
