@@ -1,7 +1,8 @@
 HyperMiner
 
-The repository contains the framework - HyperMiner. 
-The description of the folders is as follows: 
+The repository contains the framework - HyperMiner for mining HyperLTL properties using execution traces. 
+
+The directory description is as follows: 
   1. Miner - Contains the code for mining HyperLTL formulas and Verification.
   2. TraceExamples - Contains the traces extracted.
   3. Results - Contains the results of the various experiments conducted.
