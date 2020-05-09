@@ -1,0 +1,3 @@
+G((((aesregstart1==aesregstart2) & (blockcounter1==blockcounter2)) | (aesxramack1==aesxramack2)))
+G((((aesregstart1==aesregstart2) & (goodvalue1==goodvalue2)) | (aesxramack1==aesxramack2)))
+G((blockcounternext1==blockcounternext2))

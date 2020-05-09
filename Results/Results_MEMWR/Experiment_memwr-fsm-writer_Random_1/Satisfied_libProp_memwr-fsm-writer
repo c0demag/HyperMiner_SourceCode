@@ -1,0 +1,3 @@
+( G+ ( EQ memwrregstate ) )
+( G+ ( EQ memwrregbyteswrittennext ) )
+( G+ ( AND ( EQ memwrwren )( EQ fsmwriterdelay ) ) )

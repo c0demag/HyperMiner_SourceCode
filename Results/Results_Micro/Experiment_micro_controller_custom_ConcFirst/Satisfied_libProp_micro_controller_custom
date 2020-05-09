@@ -1,0 +1,7 @@
+( G+ ( EQ memintrfcimemwait ) )
+( G+ ( EQ memintrfcistbt ) )
+( G+ ( EQ memintrfccdata ) )
+( G+ ( EQ memintrfcintackt ) )
+( G+ ( EQ memintrfcrir ) )
+( G+ ( EQ memintrfccdone ) )
+( G+ ( EQ memintrfcintvecbuff ) )

@@ -1,0 +1,3 @@
+( G+ ( X+ ( EQ ptinwrrange ) ) )
+( G+ ( X+ ( OR ( EQ rdenabled2 )( EQ ptinwrrange ) ) ) )
+( G+ ( X+ ( OR ( EQ rdenabled2 )( EQ ptrdreguse ) ) ) )

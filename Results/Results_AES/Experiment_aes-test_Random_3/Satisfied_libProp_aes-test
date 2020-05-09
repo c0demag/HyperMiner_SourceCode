@@ -1,0 +1,3 @@
+( G+ ( OR ( AND ( EQ aesregstart )( EQ blockcounter ) )( EQ aesxramack ) ) )
+( G+ ( OR ( AND ( EQ aesregstart )( EQ goodvalue ) )( EQ aesxramack ) ) )
+( G+ ( EQ blockcounternext ) )

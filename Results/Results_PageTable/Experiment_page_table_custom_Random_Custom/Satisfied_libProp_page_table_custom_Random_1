@@ -1,0 +1,4 @@
+( G+ ( OR ( EQ illegalwr )( EQ ptinrdrange ) ) )
+( G+ ( EQ ptwrreguse ) )
+( G+ ( NOT ( NOT ( EQ ptinrdrange ) ) ) )
+( G+ ( AND ( EQ ptinrdrange )( EQ pciareg ) ) )

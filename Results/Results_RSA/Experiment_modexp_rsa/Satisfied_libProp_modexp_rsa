@@ -1,0 +1,7 @@
+( G+ ( EQ bytecounter ) )
+( G+ ( EQ startop ) )
+( G+ ( EQ wren ) )
+( G+ ( EQ expregstatenext ) )
+( G+ ( EQ expregstate ) )
+( G+ ( EQ bytecounternext ) )
+( G+ ( EQ expregopaddr ) )

@@ -1,0 +1,4 @@
+( G+ ( EQ ptwrreguse ) )
+( G+ ( EQ writesucceed ) )
+( G+ ( AND ( X+ ( EQ ptwrreguse ) )( EQ writesucceed ) ) )
+( G+ ( AND ( X+ ( EQ ptinwrrange ) )( EQ writesucceed ) ) )

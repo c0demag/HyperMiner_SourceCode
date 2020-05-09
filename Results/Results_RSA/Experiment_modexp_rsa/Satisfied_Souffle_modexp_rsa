@@ -1,0 +1,7 @@
+G((bytecounter1==bytecounter2))
+G((startop1==startop2))
+G((wren1==wren2))
+G((expregstatenext1==expregstatenext2))
+G((expregstate1==expregstate2))
+G((bytecounternext1==bytecounternext2))
+G((expregopaddr1==expregopaddr2))

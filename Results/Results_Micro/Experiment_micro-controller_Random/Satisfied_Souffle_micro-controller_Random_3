@@ -1,0 +1,5 @@
+G(!(!((memintrfccdata1==memintrfccdata2))))
+G(X(X((memintrfccdone1==memintrfccdone2))))
+G(X(X((memintrfcintackt1==memintrfcintackt2))))
+G((memintrfccdone1==memintrfccdone2))
+G(X((memintrfccdata1==memintrfccdata2)))

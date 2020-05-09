@@ -1,0 +1,4 @@
+G((ptwrreguse1==ptwrreguse2))
+G((writesucceed1==writesucceed2))
+G((X((ptwrreguse1==ptwrreguse2)) & (writesucceed1==writesucceed2)))
+G((X((ptinwrrange1==ptinwrrange2)) & (writesucceed1==writesucceed2)))

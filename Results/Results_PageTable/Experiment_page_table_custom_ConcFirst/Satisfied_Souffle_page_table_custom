@@ -1,0 +1,6 @@
+G((ptinwrrange1==ptinwrrange2))
+G((ptwrreguse1==ptwrreguse2))
+G((ptrdreguse1==ptrdreguse2))
+G((ptinrdrange1==ptinrdrange2))
+G((writesucceed1==writesucceed2))
+G((pciareg1==pciareg2))

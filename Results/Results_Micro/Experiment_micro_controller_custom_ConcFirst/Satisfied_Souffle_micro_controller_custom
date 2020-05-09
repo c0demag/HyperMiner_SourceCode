@@ -1,0 +1,7 @@
+G((memintrfcimemwait1==memintrfcimemwait2))
+G((memintrfcistbt1==memintrfcistbt2))
+G((memintrfccdata1==memintrfccdata2))
+G((memintrfcintackt1==memintrfcintackt2))
+G((memintrfcrir1==memintrfcrir2))
+G((memintrfccdone1==memintrfccdone2))
+G((memintrfcintvecbuff1==memintrfcintvecbuff2))

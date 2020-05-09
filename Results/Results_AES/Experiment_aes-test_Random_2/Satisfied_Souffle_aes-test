@@ -1,0 +1,5 @@
+G(((goodvalue1==goodvalue2) => (blockcounter1==blockcounter2)))
+G(((goodvalue1==goodvalue2) => (blockcounternext1==blockcounternext2)))
+G(((blockcounter1==blockcounter2) => (blockcounternext1==blockcounternext2)))
+G(((aesregstate1==aesregstate2) => (aesxramack1==aesxramack2)))
+G((blockcounter1==blockcounter2))

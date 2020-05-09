@@ -1,0 +1,5 @@
+( G+ ( NOT ( NOT ( EQ memintrfccdata ) ) ) )
+( G+ ( X+ ( X+ ( EQ memintrfccdone ) ) ) )
+( G+ ( X+ ( X+ ( EQ memintrfcintackt ) ) ) )
+( G+ ( EQ memintrfccdone ) )
+( G+ ( X+ ( EQ memintrfccdata ) ) )

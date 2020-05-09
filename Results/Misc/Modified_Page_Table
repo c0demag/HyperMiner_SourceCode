@@ -1,0 +1,10 @@
+G(ia_reg_next1==ia_reg_next2 => illegal_rd1==illegal_rd2)
+
+G(wr_enabled_01==wr_enabled_02 => X(ia_src_next1==ia_src_next2))
+G(wr_enabled_01==wr_enabled_02 => ia_src_next1==ia_src_next2)
+G(wr_enabled_01==wr_enabled_02 => X(illegal_src1==illegal_src2))
+G(wr_enabled_01==wr_enabled_02 => illegal_src1==illegal_src2)
+
+G(wr_enabled_21==wr_enabled_22 => X(rd_enabled_21==rd_enabled_22))
+G(wr_enabled_21==wr_enabled_22 => rd_enabled_21==rd_enabled_22)
+

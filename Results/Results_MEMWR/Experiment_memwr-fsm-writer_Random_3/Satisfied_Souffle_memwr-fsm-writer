@@ -1,0 +1,3 @@
+G((fsmwriterdelay1==fsmwriterdelay2))
+G((memregwraddr1==memregwraddr2))
+G((memwrstatenext1==memwrstatenext2))

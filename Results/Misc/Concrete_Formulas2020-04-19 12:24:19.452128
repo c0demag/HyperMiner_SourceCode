@@ -1,0 +1,1 @@
+((high_in1==high_out2) => G((high_in1==high_out2)))

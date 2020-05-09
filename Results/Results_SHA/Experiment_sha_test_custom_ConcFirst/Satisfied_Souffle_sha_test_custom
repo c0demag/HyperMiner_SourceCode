@@ -1,0 +1,4 @@
+G((shacoreinit1==shacoreinit2))
+G((sharegrdaddr1==sharegrdaddr2))
+G((goodvalue1==goodvalue2))
+G((sharegwraddr1==sharegwraddr2))

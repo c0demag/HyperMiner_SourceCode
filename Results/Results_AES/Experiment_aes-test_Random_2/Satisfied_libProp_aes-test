@@ -1,0 +1,5 @@
+( G+ ( IMPLIES ( EQ goodvalue )( EQ blockcounter ) ) )
+( G+ ( IMPLIES ( EQ goodvalue )( EQ blockcounternext ) ) )
+( G+ ( IMPLIES ( EQ blockcounter )( EQ blockcounternext ) ) )
+( G+ ( IMPLIES ( EQ aesregstate )( EQ aesxramack ) ) )
+( G+ ( EQ blockcounter ) )

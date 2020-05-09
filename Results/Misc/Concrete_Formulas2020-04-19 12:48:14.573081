@@ -1,0 +1,3 @@
+(G((low_in1==low_in2)) & G((low_out1==low_out2)))
+((low_in1==low_in2) & G((low_out1==low_out2)))
+(G((low_out1==low_out2)) & G((low_in1==low_in2)))
