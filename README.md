@@ -15,5 +15,3 @@ If the command gives error, run the following, and then the above command:
 ```bash
 chmod +x script.sh
   ```
-  
-Note: script not added yet
