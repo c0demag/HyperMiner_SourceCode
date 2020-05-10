@@ -9,9 +9,9 @@ The directory description is as follows:
 
 As some initial steps, run the script setup.sh as follows: 
   ```bash
-  sudo ./script.sh
+  sudo ./setup.sh
   ```
 If the command gives error, run the following, and then the above command:
 ```bash
-chmod +x script.sh
+chmod +x setup.sh
   ```
