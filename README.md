@@ -17,3 +17,5 @@ If the command gives error, run the following, and then the above command:
 ```bash
 chmod +x setup.sh
   ```
+
+Example traces have been provided in TraceExamples and TraceExamplesCustomCov directories already. If you wish to regenerate the traces please refer to the README.md file at [fuzztest-tracegen/fuzztest/README.md](https://github.com/skmuduli92/fuzztest-tracegen/blob/4a40435cd49e7e5820bd29ccf102c37fc63f4520/fuzztest/README.md)
