@@ -1,0 +1,3 @@
+[submodule "fuzztest-tracegen"]
+	path = fuzztest-tracegen
+	url = git@github.com:skmuduli92/fuzztest-tracegen.git
